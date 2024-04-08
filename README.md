@@ -1,12 +1,10 @@
-# Data Engeneer
+# Student deb
 
 ### Education
 Physics
 
 ### Work Experience
-Audi worker @ machines
+None
 - big project 1
 
-### Projects
-**EEG BIG SHIT**
-etc...
+### 
