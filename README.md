@@ -1,7 +1,10 @@
-# Student deb
+# Paweł Witosza
+Second year student of Technical Physics at AGH University of Science and Technology.  
+Intrested in physics, mathematics, DataScience, Machine Learning and programing in python/C++.
 
 ### Education
-Physics
+ AGH University of Science and Technology
 
-### Work Experience
-None
+### Skills
+# OOP in C++
+I have writen one bigger project which is acesible on my git hub profile
