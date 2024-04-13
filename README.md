@@ -10,7 +10,7 @@ I'm a second-year student of Technical Physics at AGH University of Science and 
 ## Skills
 
 ### C++ (Object-Oriented Programming)
-- Developed one bigger project, accessible on my [GitHub profile](https://github.com/Pabito22).
+- Developed one bigger project, accessible on my [GitHub profile](https://github.com/Pabito22/repositories).
 
 ### Python (scikit-learn, NumPy, pandas, matplotlib, seaborn)
 - Experience in data visualization and analysis.
