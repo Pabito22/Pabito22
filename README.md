@@ -1,7 +1,7 @@
 # Paweł Witosza
 
 ## About Me
-I'm a second-year student of Technical Physics at AGH University of Science and Technology. My interests encompass physics, mathematics, Data Science, Machine Learning, and programming in Python and C++.
+I'm a third-year student of Technical Physics at AGH University of Science and Technology. I spend one semester in Heidelberg University where I attended coursed on Artificial Inteligence and Computer Vision. My interests encompass physics, mathematics, Data Science, Machine Learning, and programming in Python and C++.
 
 ## Education
 - **AGH University of Science and Technology**
