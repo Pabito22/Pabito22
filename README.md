@@ -5,7 +5,7 @@ I am a third-year student of Technical Physics at AGH University of Science and 
 
 ## Education
 - **AGH University of Science and Technology**
-  - ESN Mentor (Erasmus Student Network)
+  - 1 semester abroad in Heidelberg University
 
 ## Skills
 
