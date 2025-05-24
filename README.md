@@ -1,7 +1,8 @@
 # Paweł Witosza
 
 ## About Me
-I am a third-year student of Technical Physics at AGH University. I spent one semester at Heidelberg University, where I attended courses on Artificial Intelligence and Computer Vision. My interests include physics, mathematics, data science, machine learning, and programming in Python and C++.   
+I am a third-year student of Technical Physics at AGH University, experienced in data analysis and extraction.   
+I spent one semester at Heidelberg University, where I attended courses on Artificial Intelligence and Computer Vision. My interests include physics, mathematics, data science, machine learning, and programming in Python and C++.   
 In my free time I also like to study languages such as german and spanish.
 
 ## Education
@@ -17,8 +18,10 @@ In my free time I also like to study languages such as german and spanish.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### C++ (Object-Oriented Programming)
 - Developed one bigger project, accessible on my [GitHub profile](https://github.com/Pabito22?tab=repositories).
