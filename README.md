@@ -1,12 +1,12 @@
 # Paweł Witosza
 
 ## About Me
-I am a third-year student of Technical Physics at AGH University, experienced in data analysis and extraction.   
+Junior Data Analyst, passionate about data analysis, ML, and programming.   
 I spent one semester at Heidelberg University, where I attended courses on Artificial Intelligence and Computer Vision. My interests include physics, mathematics, data science, machine learning, and programming in Python and C++.   
 In my free time I also like to study languages such as german and spanish.
 
 ## Education
-- **AGH University of Science and Technology**
+- **Technical Physics at AGH University of Science and Technology**
   - 1 semester abroad in Heidelberg University
 
 ## Skills
