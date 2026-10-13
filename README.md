@@ -62,8 +62,9 @@ I'm particularly interested in understanding how models work, evaluating their p
 Explore my repositories for more projects and implementations.
 
 ## Education
+**Artificial Inteligence and Data Science at HHU Dusseldorf [currently enrolled]**
 
-**Technical Physics — AGH University of Science and Technology**
+**Technical Physics — AGH University of Science and Technology [finished]**
 
 - One-semester exchange at Heidelberg University, including coursework in Artificial Intelligence and Computer Vision.
 
